@@ -1,0 +1,19 @@
+{
+  "name": "basic-webpack-starter",
+  "version": "1.0.0",
+  "description": "My  basic webpack starter build for html layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djalexson/basic-webpack-starter.git"
+  },
+  "author": "wedpack. Javascript. ES2. sass. cass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djalexson/basic-webpack-starter/issues"
+  },
+  "homepage": "https://github.com/djalexson/basic-webpack-starter#readme"
+}
