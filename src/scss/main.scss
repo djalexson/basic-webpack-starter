@@ -4,8 +4,10 @@
 @import "vars";
 @import "settings";
 
-body {
-  background-color: red;
-	background-image: url("../img/2.jpg");
-	color: red;
+body{
+background-color: var(--color-blue);
+};
+.header{
+padding-top: 75px;
+
 }
